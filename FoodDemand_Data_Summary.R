@@ -52,6 +52,12 @@ as.matrix(prop.table(table(emailer_for_promotion)))*100
 
 library(ggplot2)
 
+ggplot(train, aes(as.factor(emailer_for_promotion), num_orders), color = center_type) + 
+  geom_boxplot(aes(fill = as.factor(emailer_for_promotion)))
+
+ggplot(train, aes(as.factor(homepage_featured), num_orders), color = center_type) + 
+  geom_boxplot(aes(fill = as.factor(homepage_featured)))
+
 ggplot(train, aes(center_type, num_orders), color = center_type) + 
   geom_boxplot(aes(fill = center_type))
 
@@ -72,5 +78,16 @@ hist(base_price, main = 'Base Price Distribution', col = 'forestgreen')
 hist(op_area, main = 'Ope Area Distribution', col = 'forestgreen')
 
 
+## Correlation 
 
+library(corrplot)
+library(RColorBrewer)
 
+corrplot(cor(train[, c(1,2,3,4,5,8,11,12,14)]), type = 'upper', order = 'hclust', 
+         col = brewer.pal(n = 7, name = 'YlGnBu'))
+
+# checkout_price and base price highly correlated Hence, removed base_price
+
+train =train[, -5]
+
+write.csv(train, 'Train_clean.csv')
