@@ -47,6 +47,8 @@ test_matrix = xgb.DMatrix(data = as.matrix(testm), label = test_lable)
 
 ## Set Parameters
 
+## https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+
 nc = length(unique(train_lable))
 
 xgb_par = list("objective" = "multi:softmax",
