@@ -6,3 +6,20 @@ Demand Forcasting for Food company, A food delivery service has to deal with a l
 <p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/71721417-f6207000-2e4a-11ea-8647-0fe313136b74.jpg>
                                                               Source: mpracticle.com                                               
                                                  
+
+
+## Table of Content
+
+- [Data Analysis](#data-analysis)
+- [Data Process and Cleaning](#data-process-and-cleaning)
+- [Model Building](#model-building)
+- [Performance Measurement](#performance-measurement)
+- [Conclusion](#conclusion)
+- 
+
+<br>
+
+## Data Analysis
+
+
+
