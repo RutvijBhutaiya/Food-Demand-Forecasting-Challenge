@@ -90,4 +90,26 @@ corrplot(cor(train[, c(1,2,3,4,5,8,11,12,14)]), type = 'upper', order = 'hclust'
 
 train =train[, -5]
 
+## Check the ANOVA and t-test
+
+t.test(center_id, num_orders) #Significant
+t.test(meal_id, num_orders) #Significant
+t.test(week, num_orders) #Significant
+t.test(checkout_price, num_orders) #Significant
+t.test(city_code, num_orders) #Significant
+t.test(region_code, num_orders) #Significant
+t.test(op_area, num_orders) #Significant
+
+summary(aov(num_orders~as.factor(emailer_for_promotion), data = train)) #Significant
+
+summary(aov(num_orders~as.factor(homepage_featured), data = train)) #Significant
+
+summary(aov(num_orders~as.factor(category), data = train)) #Significant
+
+summary(aov(num_orders~as.factor(cuisine), data = train)) #Significant
+
+summary(aov(num_orders~as.factor(center_type), data = train)) #Significant
+
+
+
 write.csv(train, 'Train_clean.csv')
