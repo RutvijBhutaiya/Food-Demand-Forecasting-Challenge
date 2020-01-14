@@ -79,6 +79,19 @@ Now, following data analysisi is done with the use of Tableua tool,
 
 <p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/72355186-f81ce580-370c-11ea-90c9-940597ad9c20.png>
   
+<br>
+
+#### Centre wise Operation Area And Their Order Sales
+
+<p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/72355402-68c40200-370d-11ea-9d67-4378660009ab.png>
+
+<br>
+
+#### Cuisine with Respect to  Avg. Number Orders and Checkout Price
+  
+<p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/72355660-e25bf000-370d-11ea-909f-cc75569d78e3.png>
+  
+<br>
 
 
 
