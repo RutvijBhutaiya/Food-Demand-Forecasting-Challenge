@@ -93,5 +93,11 @@ Now, following data analysisi is done with the use of Tableua tool,
   
 <br>
 
+#### Category wise Cuisine and No. of Orders with Respect to Promotional Activities 
+
+p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/72355876-3ff03c80-370e-11ea-8d35-22bd98ea6b3c.png>
+
+
+<br>
 
 
