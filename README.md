@@ -68,6 +68,17 @@ Structure of the data,
 
 Now, following data analysisi is done with the use of Tableua tool, 
 
-#### 
+#### No. of Orders Based on Checkout/Base Price
+
+<p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/72354923-86449c00-370c-11ea-8369-1794b22cb6c5.png>
+  
+
+<br>
+
+#### Email Promotion & Homepage Feature - Category wise
+
+<p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/72355186-f81ce580-370c-11ea-90c9-940597ad9c20.png>
+  
+
 
 
