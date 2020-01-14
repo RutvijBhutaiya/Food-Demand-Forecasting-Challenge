@@ -77,7 +77,7 @@ Now, following data analysisi is done with the use of Tableua tool,
 
 #### Email Promotion & Homepage Feature - Category wise
 
-<p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/72355186-f81ce580-370c-11ea-90c9-940597ad9c20.png>
+<p align="center"><img width=130% src=https://user-images.githubusercontent.com/44467789/72355186-f81ce580-370c-11ea-90c9-940597ad9c20.png>
   
 <br>
 
@@ -89,13 +89,13 @@ Now, following data analysisi is done with the use of Tableua tool,
 
 #### Cuisine with Respect to  Avg. Number Orders and Checkout Price
   
-<p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/72355660-e25bf000-370d-11ea-909f-cc75569d78e3.png>
+<p align="center"><img width=94% src=https://user-images.githubusercontent.com/44467789/72355660-e25bf000-370d-11ea-909f-cc75569d78e3.png>
   
 <br>
 
 #### Category wise Cuisine and No. of Orders with Respect to Promotional Activities 
 
-p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/72355876-3ff03c80-370e-11ea-8d35-22bd98ea6b3c.png>
+<p align="center"><img width=140% src=https://user-images.githubusercontent.com/44467789/72355876-3ff03c80-370e-11ea-8d35-22bd98ea6b3c.png>
 
 
 <br>
